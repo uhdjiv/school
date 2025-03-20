@@ -1,11 +1,11 @@
 {
-  "name": "project-name",
+  "name": "school",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/project-name/",
+    "build": "vite build --base=/school/",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -17,7 +17,8 @@
   "dependencies": {
     "body": "^5.1.0",
     "body-scroll-lock": "^4.0.0-beta.0",
-    "m": "^1.9.0",
+    "modern-normalize": "^3.0.1",
+    "reset": "^0.1.0",
     "sass": "^1.86.0",
     "scss": "^0.2.4",
     "skroll": "^1.4.3",

@@ -1,0 +1,14 @@
+// @import 'node_modules/modern-normalize/modern-normalize.css';
+
+// @use '/scss/abstracts/_mixins.scss';
+// @use '/scss/abstracts/_variables.scss';
+// @use '/scss/abstracts/_placeholders.scss';
+// @use '/scss/abstracts/_base.scss';
+
+// @import url(./abstracts/_base.scss);
+// @import url(./abstracts/_variables.scss);
+// @import url(./abstracts/_placeholders.scss);
+// @import url(./abstracts/_mixins.scss);
+
+@import url(./pages/_home.scss);
+@use '/scss/pages/_home';
